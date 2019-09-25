@@ -36,6 +36,7 @@ public class HandleMarcuryProparty {
 
   @BeforeClass
   public void beforeClass() {
+	  System.out.println("Before_____Method___Github");
   }
 
   @AfterClass
