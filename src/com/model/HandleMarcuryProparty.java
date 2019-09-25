@@ -31,6 +31,7 @@ public class HandleMarcuryProparty {
 
   @AfterMethod
   public void afterMethod() {
+	  System.out.println("After_____Method");
   }
 
   @BeforeClass
